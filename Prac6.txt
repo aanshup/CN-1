@@ -40,12 +40,12 @@ int main() {
     int arr2[] = { 0, 1, 1, 0, 1, 1 };
 
     printf("for Array 1: ");
-    bitStuffing(N, arr1);
+    bit(N, arr1);
 
     printf("\n");
     
     printf("\nfor Array 2: ");
-    bitStuffing(N, arr2);
+    bit(N, arr2);
 
     return 0;
 }
